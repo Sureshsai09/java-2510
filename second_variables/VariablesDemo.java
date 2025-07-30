@@ -2,7 +2,8 @@ public class VariablesDemo {
     //brand
    //des
    //price
-   //datatype vnae=value;
+   //datatype vnae=value
+
         static int someData;
         static int someData2;
         int price=350;

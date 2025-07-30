@@ -17,5 +17,6 @@ public class LMSVariables {
         System.out.println("Student Gender:"+student_Gender_1);
         System.out.println("Student is Male?:"+isStudentMale);
     }
+
     
 }
