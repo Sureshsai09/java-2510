@@ -1,3 +1,4 @@
+package six_class_obj_met;
 public class LMSOperators {
     public static void main(String[] args) {
         //variables
