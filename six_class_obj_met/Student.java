@@ -18,7 +18,6 @@ public class Student {
         System.out.println("Student ID: "+studentID);
         System.out.println("Student Name: "+studentName);
     }
-
     // For Taking inputs
     Scanner sc = new Scanner((System.in));
 
