@@ -1,4 +1,4 @@
-package six_class_obj_met;
+package seven_constructors;
 
 
 public class Bank {

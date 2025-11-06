@@ -1,4 +1,5 @@
-package six_class_obj_met;
+package seven_constructors;
+
 
 public class RunBank {
     public static void main(String[] args) {
