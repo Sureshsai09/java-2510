@@ -31,6 +31,8 @@ public class Trainer {
         System.out.println("==== Trainer Payment====");
         System.out.println("Total Payment To Be Made: "+totalPayment);
 
+
+        
     }
 
 }
