@@ -1,4 +1,4 @@
-package fifth_control_statements;
+package fifth_control_stmts;
 
 
 public class Task {
