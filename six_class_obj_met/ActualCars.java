@@ -1,6 +1,8 @@
 package six_class_obj_met;
 
 public class ActualCars {
+    static int data=10;
+
     public static void main(String[] args) {
     
         CarFactory cretaCar=new CarFactory();
@@ -8,8 +10,8 @@ public class ActualCars {
         cretaCar.carPrice=20.50;
         cretaCar.carReviews=410;
         cretaCar.carRating=4.6;
-        cretaCar.displayCar_shortInfo();
-        cretaCar.displayCar_completeInfo();
+        // cretaCar.displayCar_shortInfo();
+        // cretaCar.displayCar_completeInfo();
 
         CarFactory scarpioCar=new CarFactory();
         scarpioCar.carBrand="Mahindra";
