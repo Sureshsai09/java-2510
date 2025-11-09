@@ -1,4 +1,3 @@
-
 public class Test {
     public static void main(String[] args) {
         //O TO 4 -Toddler
@@ -19,7 +18,7 @@ public class Test {
                 System.out.println("Toddler");
             } else {
                 System.out.println("Invalid age");
-                
+
             }
 
 
@@ -65,46 +64,46 @@ public class Test {
                     System.out.println("child");
                     break;
                     case 13:
-                    System.out.println("child");
+                    System.out.println("teenager");
                     break;
                     case 14:
-                    System.out.println("child");
+                    System.out.println("teenager");
                     break;
                     case 15:
-                    System.out.println("child");
+                    System.out.println("teenager");
                     break;
                     case 16:
-                    System.out.println("child");
+                    System.out.println("teenager");
                     break;
                     case 17:
-                    System.out.println("child");
+                    System.out.println("teenager");
                     break;
                     case 18:
-                    System.out.println("child");
+                    System.out.println("teenager");
                     break;
                     case 19:
-                    System.out.println("child");
+                    System.out.println("teenager");
                     break;
                     case 20:
-                    System.out.println("young adult");
+                    System.out.println("Young Adult");
                     break;
                     case 21:
-                    System.out.println("young adult");
+                    System.out.println("Young Adult");
                     break;
                     case 22:
-                    System.out.println("young adult");
+                    System.out.println("Young Adult");
                     break;
                     case 23:
-                    System.out.println("young adult");
+                    System.out.println("Young Adult");
                     break;
                     case 24:
-                    System.out.println("young adult");
+                    System.out.println("Young Adult");
                     break;
                     case 25:
-                    System.out.println("young adult");
+                    System.out.println("Young Adult");
                     break;
                     case 26:
-                    System.out.println("young adult");
+                    System.out.println("Young Adult");
                     break;
                     default:
                     System.out.println("Adult");
@@ -113,19 +112,12 @@ public class Test {
             //switch case-using arrow operator
             String category_age=switch(age){
                 case 0,1,2,3,4 -> "Toddler";
-                case 5,6,7,8,9,10,11,12 -> "child";
-                case 13,14,15,16,17,18,19  -> "young Adult";
+                case 5,6,7,8,9,10,11,12 -> "Child";
+                case 13,14,15,16,17,18,19  -> "Teenager";
+                case 20,21,22,23,24,25,26 -> "Young Adult";
                 default -> "Adult";
             };
             System.out.println(category_age);
             }
 
             }
-
-
-
-            
-
-
-
-

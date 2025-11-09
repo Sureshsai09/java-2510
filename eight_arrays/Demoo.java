@@ -1,5 +1,6 @@
-public  class Demo {
+public  class Demoo {
     public static void main(String[] args) {
+        //datatype[] arrayName=new datatype[size];
         int[] nums=new int[5];
         String[] names=new String[3];
         // store values in arrays
@@ -37,7 +38,7 @@ public  class Demo {
                 System.out.println("Elements  "+numbers[j]);
 
         }
-        int[] nuim={1,2,3,4,5};
+        int[] num={1,2,3,4,5};
         int sum=0;
         int avg=0;
 
@@ -50,6 +51,13 @@ public  class Demo {
         }
         System.out.println("Sum of all numbers:"+sum);
         System.out.println("Average of all numbers:"+avg);
+
+
+        
+
+
+
+
 
 }
 }
