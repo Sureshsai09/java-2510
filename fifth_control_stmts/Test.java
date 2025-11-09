@@ -22,6 +22,15 @@ public class Test {
             }
 
 
+
+
+
+
+
+
+
+
+            
             //switch  case
             String category;
             switch (age){
